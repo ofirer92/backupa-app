@@ -1,0 +1,31 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "ff23b7c2-e00c-4b9c-a70f-6104840eb3ba": {
+      "ProjectGuid": "ff23b7c2-e00c-4b9c-a70f-6104840eb3ba",
+      "DisplayName": "Today",
+      "ColorIndex": 0
+    },
+    "cd575165-d3ba-4003-a935-9461e7dfaf94": {
+      "ProjectGuid": "cd575165-d3ba-4003-a935-9461e7dfaf94",
+      "DisplayName": "Backup_New",
+      "ColorIndex": 1
+    },
+    "112fd7d4-333f-4d18-92f4-e7d0d60d9c58": {
+      "ProjectGuid": "112fd7d4-333f-4d18-92f4-e7d0d60d9c58",
+      "DisplayName": "Cockpit_new",
+      "ColorIndex": 2
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "e922b168-4aaa-4343-804f-244ad6617994": {
+      "ProjectGuid": "e922b168-4aaa-4343-804f-244ad6617994",
+      "DisplayName": "Licensing",
+      "ColorIndex": 3
+    }
+  },
+  "NextColorIndex": 4
+}
